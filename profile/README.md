@@ -1,4 +1,4 @@
-# Alonerz-repo
+# Alonerz
 
 - Backend Developers
   - 최원영 : [GitHub](https://github.com/choewy)
