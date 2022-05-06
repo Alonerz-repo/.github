@@ -1,11 +1,11 @@
-# 항해99 6기 D반 Final Project
+# Alonerz-repo
 
-- Frontend
-  - 김형중
-  - 김민우
-- Backend
+- Backend Developers
   - 최원영
   - 김지웅
-- Design
+- Frontend Developers
+  - 김형중
+  - 김민우
+- UI/UX Designers
   - 김령은
   - 장민선
