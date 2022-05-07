@@ -8,4 +8,4 @@
   - 김민우 : [GitHub](https://github.com/purplephone)
 - UI/UX Designers
   - 김령은 : [Behance](https://behance.net/ella_re)
-  - 장민선 : 준비중
+  - 장민선 : [Blog](https://blog.naver.com/alstjs11120)
