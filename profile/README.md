@@ -1,6 +1,6 @@
 <img width="100%" alt="alonerz-logo" src="https://user-images.githubusercontent.com/70950533/169631073-080aefb5-45e5-4d4f-ba63-4d3c7b6f05f7.png">
 
-# [얼로너즈(Alonerz)](http://final-project-d3-bucket.s3-website.ap-northeast-2.amazonaws.com)
+# [얼로너즈(Alonerz)](https://alonerz.com)
 
 얼로너즈는 다양한 분야의 사람들과 함께 밥을 먹으며, 전문 분야의 지식과 통찰을 얻기 위한 모임 플랫폼 서비스입니다.
 
